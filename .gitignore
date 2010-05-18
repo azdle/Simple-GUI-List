@@ -6,3 +6,4 @@ WantList
 
 #Seems to be auto generated:
 ui_wantlist.h
+moc_wantlist.cpp
