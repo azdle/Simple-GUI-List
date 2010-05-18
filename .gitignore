@@ -1,0 +1,8 @@
+#We don't need the compiled files
+*.o
+
+#Don't need the actual binary:
+WantList
+
+#Seems to be auto generated:
+ui_wantlist.h

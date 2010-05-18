@@ -14,7 +14,6 @@ public:
     ~WantList();
 
 public slots:
-    void
 
 protected:
     void changeEvent(QEvent *e);
